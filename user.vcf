@@ -7,7 +7,7 @@ ORG:RecycleupNL;
 TITLE:Upcycled Vintage Glas
 EMAIL;type=INTERNET;type=WORK;type=pref:mail@recycleup.nl
 TEL;type=WORK;type=VOICE:
-item1.ADR;type=WORK;type=pref:;; , ;;; ;IJmuiden
+item1.ADR;type=WORK;type=pref:;; , ;IJmuiden;;1900AD;Nederland
 item1.X-ABADR:sg
 item2.URL;type=pref:recycleup.nl
 item2.X-ABLabel:_$!<HomePage>!$_
