@@ -6,9 +6,9 @@ FN: Monique RecycleUpNL
 ORG:RecycleupNL;
 TITLE:Associate Software Engineer\nProducts Team, Data Science Division
 EMAIL;type=INTERNET;type=WORK;type=pref:mail@recycleup.nl
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+TEL;type=WORK;type=VOICE:+6 29528947
+item1.ADR;type=WORK;type=pref:;;, ;;;;IJmuiden
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:recycleup.nl
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
