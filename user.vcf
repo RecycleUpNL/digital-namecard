@@ -10,5 +10,5 @@ TEL;type=WORK;type=VOICE:
 item1.ADR;type=WORK;type=pref:;; , ;IJmuiden;; ;Nederland
 item1.X-ABADR:sg
 URL;WORK:www.recycleup.nl
-PHOTO;VALUE=URI;TYPE=JPG:;http://www.recycleup.nl/wp-content/uploads/2019/05/Logo-visitekaartje1.jpg
+PHOTO;VALUE=URL;TYPE=JPG:http://www.recycleup.nl/wp-content/uploads/2019/05/Logo-visitekaartje1.jpg
 END:VCARD
