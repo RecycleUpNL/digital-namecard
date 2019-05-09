@@ -7,7 +7,7 @@ ORG:RecycleupNL;
 TITLE:Upcycled Vintage Glas
 EMAIL;type=INTERNET;type=WORK;type=pref:mail@recycleup.nl
 NOTE:http://www.recycleup.nl/wp-content/uploads/2019/05/Logo-visitekaartje1.jpg\Test,\test nieuwe regel.
-PHOTO;TYPE=JPEG:Logo-visitekaartje1.jpg
+PHOTO;TYPE=JPEG:http://example.com/photo.jpg
 TEL;type=WORK;type=VOICE:
 item1.ADR;type=WORK;type=pref:;; , ;IJmuiden;; ;Nederland
 item1.X-ABADR:sg
